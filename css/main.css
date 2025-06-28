@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "djv";
+    src: url(../fonts/bpg_dejavu_sans.ttf);
+}
+
+body {
+    background-color: aliceblue;
+    font-family: "djv";
+    padding: 20px;
+}
